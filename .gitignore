@@ -1,0 +1,49 @@
+*.log
+.DS_Store
+.env
+.env.*
+.phpactor.json
+.phpunit.result.cache
+_ide_helper.php
+Homestead.json
+Homestead.yaml
+Thumbs.db
+
+# IDEs & Tooling Configs
+/.claude
+.claude
+/.cursor/
+.cursor
+/.idea
+.idea
+/.nova
+/.vscode
+.vscode
+/.zed
+.zed
+
+# GitHub Configs
+/.github
+.github
+
+# Virtual Environments
+/.venv
+.venv
+venv/
+env/
+
+# Credentials & Dependencies
+/auth.json
+/node_modules
+/vendor
+
+# Laravel Build & Storage
+/public/build
+/public/fonts-manifest.dev.json
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/.phpunit.cache
+database/*.sqlite
+database/*.sqlite-journal
